@@ -1,0 +1,22 @@
+{
+  "name": "cninja.js",
+  "version": "1.0.0",
+  "description": "A simple utility to clean the clutter of a directory, by creating folders based on file extensions and filtering all corresponding files to those created directories after all existing extensions have been found.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvr42/cninja.git"
+  },
+  "author": "Jesus Villarroel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvr42/cninja/issues"
+  },
+  "homepage": "https://github.com/jvr42/cninja#readme",
+  "dependencies": {
+    "file-extension": "^3.1.2"
+  }
+}
